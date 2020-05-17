@@ -1,5 +1,5 @@
 {
-  "name": "nise",
+  "name": "@offirgolan/nise",
   "version": "4.0.3",
   "description": "Fake XHR and server",
   "keywords": [
